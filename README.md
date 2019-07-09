@@ -58,7 +58,7 @@ test
 Open terminal shell in app directory 
 
 ```
-npm run develop
+npm run dev
 ```
 Go to local host http://localhost:8080/
 
