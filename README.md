@@ -63,4 +63,4 @@ npm run develop
 Go to local host http://localhost:8080/
 
 ## Metamask
-Make sure to install a Metamask extension with an imported account that have ether in order to claim a star
+Make sure to install a Metamask extension with an account that have ether in order to claim a star
